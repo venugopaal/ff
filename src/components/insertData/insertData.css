@@ -1,0 +1,23 @@
+#data-container{
+  text-align: -webkit-center;
+}
+
+#form-container{
+  padding: 1em;
+  width: 50em;
+  margin-top: 1em;
+  box-shadow: 2px 2px 8px 2px #dedee0;
+}
+.heading{
+  background: #007bff;
+}
+.formrow{
+    width: 50em;
+}
+.heading-text{
+  color:white;
+  margin-top: 8px;
+}
+.header-row{
+  width: 50em;
+}

@@ -1,0 +1,39 @@
+.back-button {
+  position: absolute;
+  left: 1em;
+  z-index: 1;
+}
+.main-row {
+  margin-top: 5px;
+}
+.product-large-image {
+  width: -webkit-fill-available;
+  height: inherit;
+}
+.flex-container > img {
+  background-color: #f1f1f1;
+  width: 3em;
+  margin: 0.2em;
+  text-align: center;
+  line-height: 0.3em;
+  font-size: 2em;
+}
+.image-pane {
+  border: 1px solid #d7d9db;
+  /* padding: 1.1em; */
+  padding-left: 1.1em;
+  padding-right: 1.1em;
+  padding-top: 0.1em;
+  padding-bottom: 0.2em;
+  box-shadow: 2px 2px 8px 2px #dedee0;
+}
+/* .product-small-image:hover {
+  border: 1px solid;
+} */
+.product-small-image {
+  border: 1px solid;
+}
+.product-small-image:active,
+.product-small-image:focus {
+  border-color: blue;
+}
